@@ -1,6 +1,6 @@
 # IAL-VUT-FIT
 -------------------
-1.proj = 8.5/10
+### 1.proj = 8.5/10
 
 > (získáno/celkem)
 
@@ -15,8 +15,8 @@
 
 > Celkem bodů 8.50/10.00 b.
 
-2.proj = 10/10
-Uloha	/ Hodnocení
-1.    3 b.
-2.  	3.5 b.
-3.	  3.5 b.
+### 2.proj = 10/10
+Uloha	  /   Hodnocení
+1.	    3 b.
+2.	    3.5 b.
+3.	    3.5 b.
